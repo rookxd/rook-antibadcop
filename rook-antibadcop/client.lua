@@ -1,7 +1,6 @@
 QBCore = exports['qb-core']:GetCoreObject()
 
 
-PlayerData = QBCore.Functions.GetPlayerData()
 
 CreateThread(function()
     while true do
